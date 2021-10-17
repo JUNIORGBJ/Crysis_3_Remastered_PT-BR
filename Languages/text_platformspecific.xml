@@ -1,0 +1,1453 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Title>Audio script template</Title>
+  <Author>Maëlenn Lumineau</Author>
+  <LastAuthor>Gilson</LastAuthor>
+  <LastPrinted>2003-10-30T09:38:41Z</LastPrinted>
+  <Created>2002-06-17T19:14:00Z</Created>
+  <LastSaved>2021-10-16T21:36:03Z</LastSaved>
+  <Company>Electronic Arts</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <SupBook>
+   <Path>\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\Copy of Dialog_Asset_List_Final_edit.xls</Path>
+   <SheetName>DropDown</SheetName>
+   <SheetName>Conversations</SheetName>
+   <Xct>
+    <Count>2</Count>
+    <SheetIndex>0</SheetIndex>
+    <Crn>
+     <Row>6</Row>
+     <ColFirst>0</ColFirst>
+     <ColLast>4</ColLast>
+     <Text>clean</Text>
+     <Text>TV</Text>
+     <Text>radio (disturbed) </Text>
+     <Text>radio (low)</Text>
+     <Text>radio (heavy)</Text>
+    </Crn>
+    <Crn>
+     <Row>9</Row>
+     <ColFirst>0</ColFirst>
+     <ColLast>41</ColLast>
+     <Text>Player</Text>
+     <Text>Barnes</Text>
+     <Text>Hawker</Text>
+     <Text>Sykes</Text>
+     <Text>Johnson</Text>
+     <Text>Cortez</Text>
+     <Text>Beck</Text>
+     <Text>Miller</Text>
+     <Text>Baxter</Text>
+     <Text>American scientist</Text>
+     <Text>Shark</Text>
+     <Text>Chia</Text>
+     <Text>Kirovski</Text>
+     <Text>Michaels</Text>
+     <Text>Chang</Text>
+     <Text>Marine Soldier a</Text>
+     <Text>Marine Soldier b</Text>
+     <Text>Chinese Soldier a</Text>
+     <Text>Chinese Soldier b</Text>
+     <Text>Chinese Soldier c</Text>
+     <Text>Chinese Soldier d</Text>
+     <Text>Chinese Soldier e</Text>
+     <Text>Chinese Soldier f</Text>
+     <Text>Chinese Officer a</Text>
+     <Text>Chinese Officer b</Text>
+     <Text>Chinese Scientist a</Text>
+     <Text>Chinese Scientist b</Text>
+     <Text>Chinese Scientist Female a</Text>
+     <Text>Chinese Scientist Female b</Text>
+     <Text>Filmcrew Member</Text>
+     <Text>Morrison</Text>
+     <Text>C17 Pilot a</Text>
+     <Text>C17 Pilot b</Text>
+     <Text>Submarine Commander Davis</Text>
+     <Text>Pilot (camera)</Text>
+     <Text>Bridge officer 1</Text>
+     <Text>Bridge officer 2</Text>
+     <Text>Carrier deck guide</Text>
+     <Text>Jet Pilot</Text>
+     <Text>VTOL Pilot</Text>
+     <Text>Commander (camera)</Text>
+     <Text>Team Two (camera)</Text>
+    </Crn>
+   </Xct>
+  </SupBook>
+  <WindowHeight>5760</WindowHeight>
+  <WindowWidth>10320</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="9"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="9"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Size="9" ss:Color="#FFFFFF"
+    ss:Bold="1"/>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Size="9" ss:Color="#FFFFFF"
+    ss:Bold="1"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Size="9" ss:Color="#FFFFFF"
+    ss:Bold="1"/>
+   <Interior ss:Color="#99CC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="9"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="9" ss:Color="#FFFFFF"
+    ss:Bold="1"/>
+   <Interior ss:Color="#666699" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Size="9" ss:Color="#FFFFFF"
+    ss:Bold="1"/>
+   <Interior ss:Color="#666699" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Size="9" ss:Color="#FFFFFF"
+    ss:Bold="1"/>
+   <Interior ss:Color="#666699" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="9"/>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="9"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s73">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="9"/>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s74">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="9"/>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s75">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="9"/>
+  </Style>
+  <Style ss:ID="s76">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="9"/>
+  </Style>
+  <Style ss:ID="s77">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="9"/>
+  </Style>
+  <Style ss:ID="s78">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="9"/>
+  </Style>
+  <Style ss:ID="s79">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s80">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s81">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="9"/>
+  </Style>
+  <Style ss:ID="s82">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s83">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s84">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s85">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s86">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s87">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s88">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s89">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s90">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s91">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s92">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+ </Styles>
+ <Names>
+  <NamedRange ss:Name="characters"
+   ss:RefersTo="='\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\[Copy of Dialog_Asset_List_Final_edit.xls]DropDown'!R10C1:R10C42"/>
+  <NamedRange ss:Name="type"
+   ss:RefersTo="='\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\[Copy of Dialog_Asset_List_Final_edit.xls]DropDown'!R7C1:R7C5"/>
+ </Names>
+ <Worksheet ss:Name="Sheet1">
+  <Names>
+   <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C3:R2C4"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="141" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:AutoFitWidth="0" ss:Width="13.5"/>
+   <Column ss:Width="272.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="373.5" ss:Span="1"/>
+   <Column ss:Index="5" ss:Width="125.25"/>
+   <Row ss:StyleID="s62">
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">TRANSLATED TEXT</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">CONTEXT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:StyleID="s62">
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">This contains original text meant for subtitles. Use descriptive expressions like &lt;frantic laughter&gt; and ## for a new line.</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">This contains text for subtitles. Use descriptive expressions like &lt;frantic laughter&gt; and ## for a new line</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s71">
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:Index="5" ss:StyleID="s74"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">menu_splashscreen_legal_text</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">© 2011 Crytek GmbH. All Rights Reserved. Crytek, Crysis and CryENGINE are trademarks or registered trademarks of Crytek GmbH in the U.S and/or other countries. EA, and the EA logo are trademarks of Electronic Arts Inc. All other trademarks are the property of their respective owners. User interface © 2005 – 2011 Scaleform Corporation.</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">© 2011 Crytek GmbH. All Rights Reserved. Crytek, Crysis and CryENGINE are trademarks or registered trademarks of Crytek GmbH in the U.S and/or other countries. EA, and the EA logo are trademarks of Electronic Arts Inc. All other trademarks are the property of their respective owners. User interface © 2005 – 2010 Scaleform Corporation.</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">menu_savingmessage_saving_content_dont_turn_console_off</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">hud_saveIconBootMessage1</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">THIS GAME SUPPORTS AN AUTOSAVE FEATURE.\nWHEN YOU SEE THIS ICON</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ESTE JOGO SUPORTA UM RECURSO DE SALVAMENTO AUTOMÁTICO.\nSE APARECER ESSE ÍCONE</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">hud_saveIconBootMessage2</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">PLEASE DON'T TURN OFF YOUR CONSOLE OR REMOVE THE STORAGE DEVICE.</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">POR FAVOR, NÄO DESLIGUE O CONSOLE OU REMOVA O MICRO SD.</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">menu_press_start_continue</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">PRESS START TO CONTINUE</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">PRESSIONE START PARA CONTINUAR</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s77">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">menu_press_start_continue_before</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">PRESS START TO CONTINUE</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">PRESSIONE </Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s77">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">menu_press_start_continue_after</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">PRESS START TO CONTINUE</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String"> PARA CONTINUAR</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_menu_controller_disconnected</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Please reconnect controller %1</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Please reconnect controller %1</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_warning_stereo</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">STEREOSCOPIC 3D</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">3D ESTEREOSCÓPICO</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_warning_stereo_body</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">STEREOSCOPIC 3D MAY CAUSE DISCOMFORT, EYE STRAINS, EYE FATIGUE OR NAUSEA FOR SOME PEOPLE. DO YOU WANT STILL TO CONTINUE?</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">3D Estereoscópico pode causar desconforto, tensöes nos olhos, fadiga ocular ou náusea para algumas pessoas. VOCÊ QUER CONTINUAR MESMO ASSIM?</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_warning_stereo1080_body</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Stereo 3D requires an output resolution of 1080p. Please ensure you adjust your settings</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Stereo 3D requires an output resolution of 1080p. Please ensure you adjust your settings</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="36" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_invite_select_controller</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Confirm this message with the controller you wish to use.</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Confirm this message with the controller you wish to use.</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">This string is only present on Xbox360 and PC (with Xbox controller).</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="36" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_menu_s3d_hint</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">A 3D screen is required to play the game in stereo 3D\n Enable side-by-side mode in the options menu and then on your 3D screen\n You can change the stereo 3D strength from the ingame menu</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Uma tela 3D é necessária para usar essa funcionalidade.\n Ative o modo Lado a Lado no menu de opções e, em seguida, em sua tela 3D\n Você pode alterar a intensidade do Estéreo 3D no menu do jogo</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_menu_signin_body_loading_sp</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">A sign-in change occurred. You will be returned to the title screen when loading has completed.</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Um sinal em mudança ocorreu. Você será redirecionado para a tela de título quando o carregamento for concluído.</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">menu_btn_player_gamepadControls</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">GAMEPAD OPTIONS</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">OPÇÖES DO CONTROLE</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">menu_tooltip_gamepadControls</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">CHANGE THE GAMEPAD OPTIONS</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ALTERAR OPÇÖES DO CONTROLE</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_delete_save</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">This will permanently delete the selected content from your system.\n\nAre you absolutely sure you want to delete this save file?</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Isto irá apagar permanentemente o conteúdo selecionado de seu sistema.\n\nVocê tem certeza absoluta de que deseja excluir este arquivo salvo?</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_menu_need_to_be_online_sign_in_to_access_online</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">You must be online to access this feature</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Você deve estar online para acessar este recurso</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_menu_need_profile_signed_in_to_access_multiplayer</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">No Origin Account is signed in, you cannot access multiplayer features unless signed in to a Origin Account</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Nenhuma Conta Origin detectada, você näo pode acessar recursos multiplayer, a menos que tenha uma Conta Origin</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_insufficient_privileges_to_access_online</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Your profile does not have the correct permissions to access online functionality</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">O seu perfil näo tem as permissöes corretas para acessar a funcionalidade online</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">menu_btn_controlleroptions</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">CONTROLLER OPTIONS</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">OPÇÖES DO CONTROLE</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">menu_tooltip_controlleroptions</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">CHANGE CONTROLLER OPTIONS</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">MUDAR AS OPÇÖES DO CONTROLE</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">menu_tooltip_vibration</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ENABLE CONTROLLER VIBRATION</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ATIVAR VIBRAÇÄO DO CONTROLE</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">menu_tooltip_forcefeedback</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">TOGGLES THE FORCE FEEDBACK FOR THE CONTROLLER</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">TOGGLES THE FORCE FEEDBACK FOR THE CONTROLLER</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">menu_tooltip_sensitivity</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">CHANGE THE SENSITIVITY OF THE CONTROLLER</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">MUDAR A SENSIBILIDADE DO CONTROLE</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">menu_tooltip_sensitivity_wireless</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">CHANGE THE SENSITIVITY OF THE WIRELESS CONTROLLER</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">CHANGE THE SENSITIVITY OF THE WIRELESS CONTROLLER</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">menu_tooltip_controllersensitivity</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">CHANGE THE SENSITIVITY OF THE CONTROLLER</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">MUDAR A SENSIBILIDADE DO CONTROLE</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">menu_header_controlleroptions</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">CONTROLLER OPTIONS</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">OPÇÖES DO CONTROLE</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">menu_sticklayout</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">STICK LAYOUT</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">STICK LAYOUT</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_menu_disconnect_error_18</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">No controller</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">No controller</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">cc_xi_a</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">A Button</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">A Button</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">cc_xi_b</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">B Button</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">B Button</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">cc_xi_start</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Start Button</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Start Button</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">cc_xi_back</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Back Button</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Back Button</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">cc_xi_x</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">X Button</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">X Button</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">cc_xi_y</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Y Button</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Y Button</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">cc_xi_thumbr</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Right Thumb Stick</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Right Thumb Stick</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">cc_xi_thumbl</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Left Thumb Stick</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Left Thumb Stick</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">cc_xi_thumblx</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Left Thumb Stick X-Axis</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Left Thumb Stick X-Axis</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">cc_xi_thumbly</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Left Thumb Stick Y-Axis</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Left Thumb Stick Y-Axis</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">cc_xi_thumbrx</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Right Thumb Stick X-Axis</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Right Thumb Stick X-Axis</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">cc_xi_thumbry</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Right Thumb Stick Y-Axis</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Right Thumb Stick Y-Axis</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">cc_xi_triggerl_btn</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Left Trigger</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Left Trigger</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">cc_xi_triggerr_btn</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Right Trigger</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Right Trigger</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">cc_xi_triggerl</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Left Trigger</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Left Trigger</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">cc_xi_triggerr</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Right Trigger</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Right Trigger</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="72" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">hud_LoadoutDescription</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Module sets can be saved \n&#10;for quick and easy selection. \n&#10;\n&#10;Adapt. Engage. Survive.\n&#10;\n&#10;&lt;font color=&quot;#FFFFFF&quot;&gt;Hold button to store set.&lt;/font&gt;</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Guardar conjuntos de módulos \n&#10;para uma seleçäo rápida e fácil. \n&#10;\n&#10;Adapte. Envolva. Sobreviva .\n&#10;\n&#10;&lt;font color=&quot;#FFFFFF&quot;&gt;Segure o botäo para guardar.&lt;/font&gt;</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">menu_buttonlayout</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">BUTTON LAYOUT</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">LAYOUT DO BOTÄO</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_menu_mp_loading_pool_hint40</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Double-tap the change weapon button to fast equip explosives</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Toque duas vezes no botäo de mudança de arma para equipar os explosivos</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_menu_mp_loading_pool_hint62</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Poles can be swung by pressing the melee button</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Os bastões podem ser balançados pressionando o botão corpo a corpo</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="36" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_menu_mycrysis_account_already_exists</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">A MyCrysis account already exists for this email address which may relate to the original Crysis or other Crytek sites. Please log in with the account password or use the 'Forgotten Password' button</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Uma conta MyCrysis já existe para este endereço de e-mail que podem dizer respeito ao Crysis original ou sites Crytek. Por favor, faça login com a senha da conta ou recupera sua senha em &quot;Esqueci minha senha&quot;</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_inputName_clickLeftStick</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">CLICK LEFT STICK</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">CLICK LEFT STICK</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_inputName_clickRightStick</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">CLICK RIGHT STICK</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">CLICK RIGHT STICK</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_inputName_rightTrigger</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">PULL RIGHT TRIGGER</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">PULL RIGHT TRIGGER</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ui_inputName_leftTrigger</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">PULL LEFT TRIGGER</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">PULL LEFT TRIGGER</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">menu_press_start_to_begin</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">PRESS START TO BEGIN</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">APERTE START PARA COMEÇAR</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">menu_press_start_to_begin_before</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">PRESS START TO BEGIN</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">PRESSIONE </Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">menu_press_start_to_begin_after</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">PRESS START TO BEGIN</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String"> PARA COMEÇAR</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:StyleID="s75">
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">mp_rp_gameplay_unknownmap</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Playing %1 on a new DLC map</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Jogando %1 em um novo mapa DLC</Data></Cell>
+    <Cell ss:StyleID="s80"/>
+   </Row>
+   <Row ss:StyleID="s81">
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">menu_tooltip_achievements</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ENTER THE ACHIEVEMENT GALLERY</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">ENTER THE ACHIEVEMENT GALLERY</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+   </Row>
+   <Row ss:StyleID="s75">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ui_menu_stats_no_friends</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">No friends to compare with</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Näo há amigos para comparar com você</Data></Cell>
+    <Cell ss:StyleID="s80"/>
+   </Row>
+   <Row ss:StyleID="s75">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ui_menu_stats_select_friend</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">SELECT A FRIEND TO COMPARE WITH</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">SELECIONE UM AMIGO PARA COMPARAR COM VOCÊ</Data></Cell>
+    <Cell ss:StyleID="s80"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">menu_nav_caption_toggle_friends</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">FRIENDS ONLY</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">SOMENTE AMIGOS</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">menu_nav_caption_invite_friends</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">INVITE FRIENDS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">CONVIDAR AMIGOS</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:StyleID="s85">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_nav_caption_friends_friend_request_message</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">%1 would like to be your friend</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">%1 gostaria de ser seu amigo</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Invitation to join squad: My Test Squad</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:StyleID="s85">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_nav_caption_squad_open_state_friends</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">FRIENDS</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">AMIGOS</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">CrytekJim would like to be your friend</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_popm_send_friend_req</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">SEND FRIEND REQUEST</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">ENVIAR PEDIDO DE AMIZADE</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_popm_remove_friend</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">REMOVE FRIEND</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">REMOVER AMIGO</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_popm_accept_friend_req</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">ACCEPT FRIEND INVITE</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">ACEITAR CONVITE</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_popm_decline_friend_req</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">DECLINE FRIEND INVITE</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">NÄO ACEITAR CONVITE</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_quicksquad_tab_friends</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">FRIENDS (%1)</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">AMIGOS (%1)</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_quicksquad_heading_friend_requests</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">FRIEND REQUESTS</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">PEDIDOS DE AMIGO</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_quicksquad_btn_add_new_friends</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">ADD NEW FRIEND</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">ADICIONAR NOVO AMIGO</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_quicksquad_title_friends</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">FRIENDS</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">AMIGOS</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_quicksquad_tab_messages</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">MESSAGES (%1)</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">MENSAGENS (%1)</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s91"><Data ss:Type="String">qs_no_messages</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">You have no messages</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Você näo tem mensagens</Data></Cell>
+    <Cell ss:StyleID="s92"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_friendsbar_play_with_friends</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">PLAY WITH FRIENDS</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">JOGAR COM AMIGOS</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">ui_menu_leaderboard_friends_only</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">SHOWING FRIENDS</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">MOSTRANDO AMIGOS</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">pp_dtu_05_016_description</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Have Items from 3 different Friends in your NY Feed at once</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Você tem itens de 3 diferentes amigos no sistema de informaçäo  de Nova York</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">pp_dtu_07_016</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">BETA</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">BETA</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">pp_dtu_07_016_description</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Received after playing the Crysis 3 Beta</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Recebeu depois de jogar o Crysis 3 Beta</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">xmb_friendrq_sub</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Friend Request</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Pedido de Amizade</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">xmb_friendrq_body</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Would you like to be my Friend?</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Você gostaria de ser meu Amigo?</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_mp_title_friends_list</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">FRIENDS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AMIGOS</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_mp_subtitle_friends_list</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">List of Friends for %1</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Lista de amigos para % 1</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_mp_title_friend_request</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">NEW FRIEND REQUEST</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">NOVO PEDIDO DE AMIZADE</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_mp_subtitle_friend_request</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 wants to be your friend</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">%1 quer ser seu amigo</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_mp_title_no_friends</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">FRIENDS (ADD)</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AMIGOS (ADICIONADOS)</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_mp_subtitle_no_friends</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">You need to add friends before you can accept invites</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Você precisa adicionar amigos para que você possa aceitar convites</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_mp_title_find_friend_result</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">FRIENDS FOUND</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">AMIGOS ENCONTRADOS</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_mp_subtitle_find_friend_result</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Found %1 Friend(s)</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Encontrado %1 Amigo(s)</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_mp_subtitle_find_friend_failed</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">No friends found with search '%1'</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Sem amigos encontrados com a pesquisa '%1'</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_btn_friends</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">FRIENDS LIST</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">LISTA DE AMIGOS</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_tooltip_friends</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">MANAGE FRIENDS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">GERENCIADOR DE AMIZADES</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_rp_new_friend_match_inviting</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Is asking to be your friend and inviting you to join %1</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Está pedindo para ser seu amigo e convidá-lo a juntar-se ao %1</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_rp_new_friend</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Is asking to be your friend</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Está pedindo para ser seu amigo</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_rp_sent_a_friend_request</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Waiting for friend request response</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">À espera da resposta de pedido de amizade</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_qs_button_add_new_friend</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ADD NEW FRIEND</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ADICIONAR NOVA AMIZADE</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_qs_error_not_online_friends</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">YOU MUST BE ONLINE TO VIEW FRIENDS</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">TEM DE ESTAR ONLINE PARA VER OS SEUS AMIGOS</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_qs_error_no_friends_found</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">NO FRIENDS FOUND</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">NENHUM AMIHO ENCONTRADO</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_qs_new_friend</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Is asking to be your friend</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Está pedindo para ser seu amigo</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_qs_sent_a_friend_request</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Waiting for friend request response</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">À espera da resposta de pedido de amizade</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_mp_button_send_friend_request</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">SEND FRIEND REQUEST</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ENVIAR PEDIDO DE AMIZADE</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">dialogue_mp_find_friend_title</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">FIND A FRIEND</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ENCONTRE UM AMIGO</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">dialogue_mp_find_friend_msg</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Search for a friend</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Procurar um amigo</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">dialogue_mp_no_new_friends_found_title</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">NO FRIENDS FOUND</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">NENHUM AMIGO ENCONTRADO</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">dialogue_mp_subtitle_friends_internal_error</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">The friends system has encountered a network problem</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">O sistema de amigos encontrou um problema na rede</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">dialogue_mp_subtitle_invalid_friend_request</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Invalid friend request, please try again.</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Pedido de amizade inválido, por favor tente novamente.</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">ui_menu_mp_loading_pool_hint38</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Form a squad to stay with your friends between matches</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Forme uma equipe para ficar com seus amigos entre as partidas</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:StyleID="s85">
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">ui_menu_mp_loading_pool_hint59</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Progression and completed challenges appear on your friends New York Feed</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Em noticias de Nova York aparecem os avanços e desafios concluídos dos seus amigos</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">ui_menu_mp_loading_pool_hint60</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Add friends in Crysis 3 to acquire dynamically generated challenges</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Adicione amigos em Crysis 3 para adquirir desafios gerados dinamicamente</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s85">
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">ui_menu_mp_loading_pool_hint67</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">See how you stack up against your friends in your Service Record</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Só registro de serviço que você pode comparar seu desempenho com o de seus amigos.</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">ui_serverlist_filter_friends</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">FRIENDS</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">AMIGOS</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">ui_operative_status_friends_rank</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">FRIENDS RANK:</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">CLASSIFICAÇÄO DOS AMIGOS:</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">ui_operative_status_friends</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">FRIENDS</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">AMIGOS</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:StyleID="s85">
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">ui_operative_status_friend</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">FRIEND</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">AMIGO</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="51" ss:StyleID="s85">
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">ui_operative_status_no_friends</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">NO FRIENDS ARE RANKED YET</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">NENHUM AMIGO CLASSIFICADO</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Is used in a warning dialog sentence as to why an input field is invalid. See ui_validation_ strings</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63.75">
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">ui_mycrysis_description_console</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Being a member of the MYCRYSIS community will give you access\nto statistics and leaderboards online, and enable you to compare your gameplay performance with your friends and the rest of the world.\n\nMYCRYSIS.COM also offers all the latest news and media plus an active online community with regular on-going discussions in our official forums</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Ser um membro da comunidade MYCRYSIS lhe dará acesso estatísticas \ ne compartilhamento online, permitindo que você compare a sua performance de jogo com seus amigos eo resto do mundo. \ N \ nMYCRYSIS.COM também oferece todas as últimas notícias além de uma comunidade online ativa com debates e cursos em nossos fóruns oficiais</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s85"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">ui_pc_game_friendrequest</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Friend request from %1</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Pedido de Amazade de %1</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s85"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">ca_friend</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">FRIEND</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">AMIGO</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">NYF</Data></Cell>
+    <Cell ss:StyleID="s85"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">ui_friends_widget_title</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">FRIENDS</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">AMIGOS</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">NYF</Data></Cell>
+    <Cell ss:StyleID="s85"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">menu_nav_caption_select_friend</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">TOGGLE SELECT FRIEND</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">ATIVAR SELEÇÄO DE AMIGO</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s85"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">qs_not_online_friends</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">You must be online to view friends</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Você deve estar online para ver os amigos</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s85"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">qs_no_friends</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">No friends found</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Nenhum amigo encontrado</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s85"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">RSS_02</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">The City That Never Sleep - This is the New York Feed. It keeps you connected to your Friends by displaying their progress and activity.</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">A cidade que nunca dorme - Esta é a Nova York Feed. Ele mantém você conectado aos seus amigos, mostrando seus progressos e atividades.</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s85"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">MovieNYF_01</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Welcome to the New York Feed, this secure data is constantly updated by Crynet systems and allows you to get an overview of your challenges and achievements, as well as your friends.</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Bem-vindo à New York Feed, este seguro de dados é constantemente atualizado pelos sistemas Crynet e permite-lhe ter uma visäo geral de seus desafios e conquistas, assim como seus amigos.</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s85"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">MovieNYF_03</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">One, The Crynet Broadcasts, make sure you check these regularly for news of important events, updates and get the latest on what your friends have been up to!</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Um, das transmissöes Crynet, certifique-se de verificar regularmente estas notícias de eventos importantes, atualizaçöes e receber as últimas atualizaçöes de seus amigos!</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s85"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">MovieChall_03</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Social is all about setting goals for your friends to beat.</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Social é toda sobre a definiçäo de metas para seus amigos para bater.</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s85"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">MovieChall_04</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Time to show your friends who's top-dog and earn some serious bragging rights. </Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Hora de mostrar a seus amigos que é top-dog e ganhar alguns direitos de se gabar.</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s85"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">ui_dlc_version_mismatch_message</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Version Mismatch. The downloadable content requires an updated version of the game</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Incompatibilidade de versäo. O conteúdo para download requer uma versäo atualizada do jogo</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">ui_dlc_squad_unavailable_message</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">One or more of your squad members do not have the required downloadable content pack installed</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Um ou mais dos seus membros do esquadräo näo tem o pacote de conteúdo para download necessário instalado</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">ui_menu_dlc_removed_menu</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">One or more items of downloadable content were removed. Returning to the main menu</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Um ou mais itens de conteúdo para download foram removidos. Voltando ao menu principal</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">ui_menu_dlc_removed_title</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">One or more items of downloadable content were removed. Returning to the title screen</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Um ou mais itens de conteúdo para download foram removidos. Voltando a tela de título</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">ui_friend_invite_sent</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Friend request sent</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Pedido de amizade enviado</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">ui_friend_invite_received</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Friend request received from %1</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Pedido de amizade recebido do %1</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">AMD_Intro_Text</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">\n</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">\n</Data></Cell>
+    <Cell ss:StyleID="s88"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:Orientation="Landscape"/>
+    <Header x:Margin="0.51181102362204722"
+     x:Data="&amp;LTime restriction sample script"/>
+    <Footer x:Margin="0.51181102362204722" x:Data="Page &amp;P"/>
+    <PageMargins x:Bottom="0.98425196850393704" x:Left="0" x:Right="0"
+     x:Top="0.98425196850393704"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <Scale>70</Scale>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Zoom>115</Zoom>
+   <Selected/>
+   <TopRowVisible>33</TopRowVisible>
+   <LeftColumnVisible>3</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>54</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <ConditionalFormatting xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R66C2:R67C2</Range>
+   <Condition>
+    <Value1>AND(COUNTIF(#REF!, RC)+COUNTIF(R1C2:R2763C2, RC)+COUNTIF(R2973C2:R1048576C2, RC)&gt;1,NOT(ISBLANK(RC)))</Value1>
+    <Format Style='color:#9C0006;background:#FFC7CE'/>
+   </Condition>
+  </ConditionalFormatting>
+  <ConditionalFormatting xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R64C2:R65C2</Range>
+   <Condition>
+    <Value1>AND(COUNTIF(#REF!, RC)+COUNTIF(R1C2:R2764C2, RC)+COUNTIF(R2974C2:R1048576C2, RC)&gt;1,NOT(ISBLANK(RC)))</Value1>
+    <Format Style='color:#9C0006;background:#FFC7CE'/>
+   </Condition>
+  </ConditionalFormatting>
+  <ConditionalFormatting xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R62C2:R63C2</Range>
+   <Condition>
+    <Value1>AND(COUNTIF(#REF!, RC)+COUNTIF(R1C2:R2759C2, RC)+COUNTIF(R2969C2:R1048576C2, RC)&gt;1,NOT(ISBLANK(RC)))</Value1>
+    <Format Style='color:#9C0006;background:#FFC7CE'/>
+   </Condition>
+  </ConditionalFormatting>
+ </Worksheet>
+</Workbook>

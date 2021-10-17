@@ -1,0 +1,2576 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Title>Audio script template</Title>
+  <Author>Maëlenn Lumineau</Author>
+  <LastAuthor>Roberto Vinicius</LastAuthor>
+  <LastPrinted>2003-10-30T09:38:41Z</LastPrinted>
+  <Created>2002-06-17T19:14:00Z</Created>
+  <LastSaved>2013-04-29T00:16:25Z</LastSaved>
+  <Company>Electronic Arts</Company>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <SupBook>
+   <Path>\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\Copy of Dialog_Asset_List_Final_edit.xls</Path>
+   <SheetName>DropDown</SheetName>
+   <SheetName>Conversations</SheetName>
+   <Xct>
+    <Count>2</Count>
+    <SheetIndex>0</SheetIndex>
+    <Crn>
+     <Row>6</Row>
+     <ColFirst>0</ColFirst>
+     <ColLast>4</ColLast>
+     <Text>clean</Text>
+     <Text>TV</Text>
+     <Text>radio (disturbed) </Text>
+     <Text>radio (low)</Text>
+     <Text>radio (heavy)</Text>
+    </Crn>
+    <Crn>
+     <Row>9</Row>
+     <ColFirst>0</ColFirst>
+     <ColLast>41</ColLast>
+     <Text>Player</Text>
+     <Text>Barnes</Text>
+     <Text>Hawker</Text>
+     <Text>Sykes</Text>
+     <Text>Johnson</Text>
+     <Text>Cortez</Text>
+     <Text>Beck</Text>
+     <Text>Miller</Text>
+     <Text>Baxter</Text>
+     <Text>American scientist</Text>
+     <Text>Shark</Text>
+     <Text>Chia</Text>
+     <Text>Kirovski</Text>
+     <Text>Michaels</Text>
+     <Text>Chang</Text>
+     <Text>Marine Soldier a</Text>
+     <Text>Marine Soldier b</Text>
+     <Text>Chinese Soldier a</Text>
+     <Text>Chinese Soldier b</Text>
+     <Text>Chinese Soldier c</Text>
+     <Text>Chinese Soldier d</Text>
+     <Text>Chinese Soldier e</Text>
+     <Text>Chinese Soldier f</Text>
+     <Text>Chinese Officer a</Text>
+     <Text>Chinese Officer b</Text>
+     <Text>Chinese Scientist a</Text>
+     <Text>Chinese Scientist b</Text>
+     <Text>Chinese Scientist Female a</Text>
+     <Text>Chinese Scientist Female b</Text>
+     <Text>Filmcrew Member</Text>
+     <Text>Morrison</Text>
+     <Text>C17 Pilot a</Text>
+     <Text>C17 Pilot b</Text>
+     <Text>Submarine Commander Davis</Text>
+     <Text>Pilot (camera)</Text>
+     <Text>Bridge officer 1</Text>
+     <Text>Bridge officer 2</Text>
+     <Text>Carrier deck guide</Text>
+     <Text>Jet Pilot</Text>
+     <Text>VTOL Pilot</Text>
+     <Text>Commander (camera)</Text>
+     <Text>Team Two (camera)</Text>
+    </Crn>
+   </Xct>
+  </SupBook>
+  <WindowHeight>11400</WindowHeight>
+  <WindowWidth>15600</WindowWidth>
+  <WindowTopX>135</WindowTopX>
+  <WindowTopY>435</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#99CC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#99CC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#666699" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#666699" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#666699" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s73">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s74">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s75">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+ </Styles>
+ <Names>
+  <NamedRange ss:Name="characters"
+   ss:RefersTo="='\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\[Copy of Dialog_Asset_List_Final_edit.xls]DropDown'!R10C1:R10C42"/>
+  <NamedRange ss:Name="type"
+   ss:RefersTo="='\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\[Copy of Dialog_Asset_List_Final_edit.xls]DropDown'!R7C1:R7C5"/>
+ </Names>
+ <Worksheet ss:Name="Sheet1">
+  <Names>
+   <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C3:R2C4"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="300" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:AutoFitWidth="0" ss:Width="13.5"/>
+   <Column ss:Width="199.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="365.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="364.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="172.5"/>
+   <Column ss:Width="60.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s62">
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">TRANSLATED TEXT</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ORDER</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">CONTEXT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="27" ss:StyleID="s62">
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">This contains original text meant for subtitles. Use descriptive expressions like &lt;frantic laughter&gt; and ## for a new line.</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">This contains text for subtitles. Use descriptive expressions like &lt;frantic laughter&gt; and ## for a new line</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Resupply_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Resupply</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Reabastecer</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Resupply_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Resupply</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Flanquear</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Flank_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Flank</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Flanquear</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Flank_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Flank</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Flanquear</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Approach_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Approach</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Aproximar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Approach_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Approach</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Aproximar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Infiltrate_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Infiltrate</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Infiltrar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Infiltrate_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Infiltrate</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Infiltrar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Attack_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Attack</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Atacar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Attack_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Attack</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Atacar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Defend_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Defend</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Defender</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Defend_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Defend</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Defender</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Enter_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Enter</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Entrar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Enter_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Enter</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Entrar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Exit_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Exit</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Sair</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Exit_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Exit</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Sair</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Support_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Support</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Apoiar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Support_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Support</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Apoiar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Regroup_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Regroup</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Reagrupar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Regroup_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Regroup</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Reagrupar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Escape_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Escape</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Escape</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Escape_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Escape</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Escape</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Explore_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Explore</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Explore</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Explore_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Explore</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Explore</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Search_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Search</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Procure</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Search_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Search</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Procure</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Secure_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Secure</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Proteger</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Secure_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Secure</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Proteger</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Snipe_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Snipe</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Snipe</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Snipe_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Snipe</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Snipe</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_LedgeGrab_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">LedgeGrab</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Agarrar Borda</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_LedgeGrab_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">LedgeGrab</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Agarrar Borda</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_StealthKill_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">StealthKill</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Matar com a Camuflagem</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_StealthKill_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">StealthKill</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Matar com a Camuflagem</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Slide_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Slide</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Escorregar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Slide_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Slide</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Escorregar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Cover_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Cover</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Cobertura</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Cover_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Cover</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Cobertura</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_DeployCover_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">DeployCover</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Expandir a Cobertura</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_DeployCover_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">DeployCover</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Expandir a Cobertura</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Grenade_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Grenade</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Grenada</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Grenade_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Grenade</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Grenada</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_ThrowGrenade_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">ThrowGrenade</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Lançar Granada</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_ThrowGrenade_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">ThrowGrenade</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Lançar Granada</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Smoke_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Smoke</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Fumaça</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Smoke_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Smoke</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Fumaça</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Glide_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Glide</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Deslizar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Glide_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Glide</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Deslizar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Activate_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Activate</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Ativar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Activate_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Activate</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Ativar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Drive_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Drive</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Dirigir</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Drive_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Drive</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Dirigir</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Mount_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Mount</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Montar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Mount_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Mount</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Montar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Destroy_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destroy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destruir</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Destroy_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destroy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destruir</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Kick_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Kick</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Chute</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Kick_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Kick</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Chute</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Break_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Break</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Freiar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Break_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Break</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Freiar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Ambush_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Ambush</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Emboscada</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Ambush_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Ambush</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Emboscada</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Scan_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Scan</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Escanear</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Scan_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Scan</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Escanear</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Collect_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Collect</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Coletar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Collect_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Collect</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Coletar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Use_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Use</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Usar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Use_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Use</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Usar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Rescue_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Rescue</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Salvar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Rescue_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Rescue</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Salvar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Engage_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Engage</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Atacar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Engage_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Engage</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Atacar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Distract_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Distract</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Distrair</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Distract_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Distract</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Distrair</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Ascend_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Ascend</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Subir</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Ascend_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Ascend</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Subir</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Descend_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Descend</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Descer</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Descend_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Descend</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Descer</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Avoid_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Avoid</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Evitar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Avoid_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Avoid</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Evitar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Acquire_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Acquire</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Adquirir</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Acquire_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Acquire</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Adquirir</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Observe_Name</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Observe</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Observar</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Observe_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Observe</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Observar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Stealth_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Stealth</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Camuflagem</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Stealth_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Stealth</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Camuflagem</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Armor_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Armor</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Blindagem</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Armor_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Armor</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Blindagem</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Jump_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Jump</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pular</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Jump_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Jump</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pular</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Crouch_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Crouch</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Agachar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Crouch_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Crouch</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Agachar</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Evade_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Evade</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Evadir</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Evade_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Evade</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Evadir</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Neutralize_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Neutralize</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Neutralize</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Neutralize_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Neutralize</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Neutralize</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Protect_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Protect</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Proteger</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Protect_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Protect</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Proteger</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_UseTurret_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Use Turret</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Use a Torreta</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_UseTurret_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Use Turret</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Use a Torreta</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_TakeTurret_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Take Turret</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pegue a Torreta</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_TakeTurret_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Take Turret</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pegue a Torreta</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Take_Name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Take</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pegue</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:StyleID="s72">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">TacticalScan_Take_Description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Take</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pegue</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">jailbreak_objective_01_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Infiltrate The Liberty Dome</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Entre na Cúpula da Liberdade</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">jailbreak_objective_01_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Breach the CELL Staging Area and Enter The Liberty Dome</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Infiltre-se no perimetro da CELL e entre na Cúpula da Liberdade</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_00_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Enter High Line Park</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Entre no High Line Park</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_00_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Break into The High Line</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Infiltre-se no High Line</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_01a_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Search for a Weapon</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Procure uma arma</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_01a_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Look for a weapon in Sector 1-Delta-5</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pegue a arma no Seto 1-Delta-5</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_01b_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Search for a Weapon</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Procure uma arma</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_01b_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Look for a weapon in Sector 1-Delta-3</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pegue a arma no Seto 1-Delta-3</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_01c_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Search for a Weapon</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Procure uma arma</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_01c_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Look for a weapon in Sector 1-Delta-0</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pegue a arma no Setor 1-Delta-0</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_01d_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Search for a Weapon</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Procure uma arma</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_01d_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Look for a weapon in Sector 1-Delta-2</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pegue a arma no Setor 1-Delta-2</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_01e_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Search for a Weapon</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Procure uma arma</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_01e_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Look for a weapon at the location tagged by Psycho</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pegue a arma na posiçäo designada por Psycho</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_02a_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destroy The Left Tower Gun</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destrua a arma da Torre Esquerda</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_02a_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Take out the left Tower Cannon with the Ceph Bolt Sniper</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Neutralize o canhäo da Torre Esquerda com a Arma Ceph</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_02b_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destroy The Center Tower Gun</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destrua a arma da Torre Central</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_02b_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Take out the center Tower Cannon with the Ceph Bolt Sniper</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Neutralize o canhäo da Torre Central com a Arma Ceph</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_02c_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destroy The Right Tower Gun</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destrua a arma da Torre Direita</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_02c_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Take out the right Tower Cannon with the Ceph Bolt Sniper</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Neutralize o canhäo da Torre Direita com a Arma Ceph</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_03_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Rendezvous with Psycho</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Encontre com Psycho</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_03_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Find a way up to Psycho's position</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Encontre um caminho até a posiçäo de Psycho</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_04_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Reach the North Railyard</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Vá para o Norte da Ferrovia</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_04_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Reach the North Railyard Through the Subway</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Vá para o norte da estrada de ferro pelo metrô</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_05_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Regroup with Psycho</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Encontre com Psycho</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_05_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Locate and Regroup with Psycho</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Localize e Encontre com Psycho</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_05a_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Mount the AGL</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Use o LG</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_05a_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Mount the AGL</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Use o LG</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_06_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Escape the Railyard</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Fuja da Ferrovia</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_06_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Get out of the Railyard Alive</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Saia da Ferrovia Vivo</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_07_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Follow Psycho</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Siga Psycho</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_07_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Follow Psycho</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Siga Psycho</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_S01_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Investigate CELL Beacon</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Investigue a Baliza da CELL</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_S01_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Locate the Origin of the CELL Locator Beacon</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Encontre a fonte da Baliza da CELL</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_S02_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Locate and Disable Nanosuit Jammer</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Procure e desative a interferência do Nanosuit</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">fields_objective_S02_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Disable the Nanosuit Jammer and Restore Radar Functionality</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Desabilite a Interferência do Nanosuit e Restaure a Funcionalidade do Radar</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">canyon_objective_01_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Infiltrate the Dam Control Towers</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Infiltre-se na Torre de Controle</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">canyon_objective_01_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Infiltrate and Shut Down the Dam's Generators and Cut Power to CELL Defenses</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Infiltre-se e Desative os Geradores para Cortar a Energia das Defesas CELL</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">canyon_objective_02_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Locate the Hydro-Electric Generators</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Procure os Geradores</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">canyon_objective_02_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Locate the Dam's Hydro-Electric Generators</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Procure os Geradores na Barragem</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">canyon_objective_03_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Shut Down the South Hydro-Electric Generator</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Desative os Geradores do Sul</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">canyon_objective_03_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Shut Down the South Hydro-Electric Generator</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Desative os Geradores do Sul</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">canyon_objective_04_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Shut Down the North Hydro-Electric Generator</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Desative os Geradores do Norte</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">canyon_objective_04_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Shut Down the North Hydro-Electric Generator</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Desative os Geradores do Norte</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">canyon_objective_05_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Place Explosives at the Structural Weakpoint</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Coloque os Explosivos na Estrutura</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">canyon_objective_05_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Place C4 on the Already Weakened Dam Structure</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Coloque C4 na Estrutura da Barragem</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">canyon_objective_06_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Infiltrate CELL System-X Harvesting Facility</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Infiltre-se na Instalaçäo de Coleta da CELL</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">canyon_objective_06_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Penetrate the CELL System-X Harvesting Facility and Shut it Down</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Infiltre-se na Instalaçäo de Coleta da CELL e Desative-a</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">canyon_objective_07_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Execute Operation Jack Hammer to Prevent Nexus Destabilization </Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Execute a Operaçäo Jack Hammer para Impedir a Desestabilizaçäo do Nexus</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">canyon_objective_07_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Bring the Nexus System Under Control</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Assuma o Controle do Sistema Nexus</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">canyon_objective_08_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Restore Pneumatic Pressure to Regulation Assembly</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Restaure a Pressäo Pneumática para Regulaçäo da Montagem</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">canyon_objective_08_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Restore Pneumatic Pressure to Regulation Assembly</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Restaure a Pressäo Pneumática para Regulaçäo da Montagem</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">canyon_objective_09_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Restore Pneumatic Pressure to Regulation Assembly</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Restaure a Pressäo Pneumática para Regulaçäo da Montagem</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">canyon_objective_09_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Restore Pneumatic Pressure to Regulation Assembly</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Restaure a Pressäo Pneumática para Regulaçäo da Montagem</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">canyon_objective_10_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Perform a Controlled Shutdown of the Nexus System</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Realize uma Desativaçäo Controlada do Sistema Nexus</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">canyon_objective_10_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Bring the Nexus System to a Safe Power Level and Shut it Down</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Estabelece um Nível de Energia Segura no Sistema Nexus e Desative-o</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">canyon_objective_S01_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Re-Program CELL Anti-Air Battery </Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Reprograme a Bateria Antiarérea da CELL</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">canyon_objective_S01_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Re-Program the CELL Anti-Air Units to Provide Additional Cover</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Reprograme as Unidades Antiarérea da CELL para Proporcionar Cobertura Adicional</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">canyon_objective_S02_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Re-Program CELL Anti-Air Battery </Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Reprograme a Bateria Antiarérea da CELL</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">canyon_objective_S02_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Re-Program the CELL Anti-Air Units to Provide Additional Cover</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Reprograme as Unidades Antiarérea da CELL para Proporcionar Cobertura Adicional</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">canyon_objective_S03_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Use the Locator Beacon Codes to Enter Nexus Facility</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Use os códigos do localizador para entrar no Nexus</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">canyon_objective_S03_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Use the Locator Beacon Codes to Enter Nexus Facility</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Use os códigos do localizador para entrar no Nexus</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">canyon_objective_S04_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Investigate CELL Beacon</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Investigue a Baliza da CELL</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">canyon_objective_S04_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Locate the Origin of the CELL Locator Beacon</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Encontre a Origem da Baliza da CELL</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">swamp_objective_01_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Avoid the CELL Searchlights and Make your way to the Park</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Evite os Refletores da CELL e Siga até o Parque</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">swamp_objective_01_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Avoid the CELL Searchlights and Make your way to the Park</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Evite os Refletores da CELL e Siga até o Parque</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">swamp_objective_02_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Approach the Ceph Mindcarrier</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Aproxime-se do Conector Mental Ceph</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">swamp_objective_02_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Approach the Ceph Mindcarrier</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Aproxime-se do Conector Mental Ceph</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">swamp_objective_03_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Locate the CELL Skinning Lab</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Localize o Laboratório da CELL</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">swamp_objective_03_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Reach the CELL Nanosuit Skinning Lab</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Vá ao Laboratório de Esfolaçäo do Nanosuit</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">swamp_objective_04_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Kill the Ceph Scorcher</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Mate o Incenerador</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">swamp_objective_04_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Kill the Ceph Scorcher</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Mate o Incenerador</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">swamp_objective_05_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Breach the Pit Defenses and Enter the Elevator</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Rompe as Defesas e Entre no Elevador</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">swamp_objective_05_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Find a way to Bypass the Pit Defenses and Enter the Elevator</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Encontre uma Forma de Romper as Defesas e Entre no Elevador</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">swamp_objective_06_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Locate a Functional Nanosuit Cradle</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Encontre uma Base Funcional do Nanosuit</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">swamp_objective_06_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Search the Facility for a Functional Nanosuit Cradle</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Procure um Mecanismo para a Base Funcional do Nanosuit</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">swamp_objective_S01_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Secure CELL Intel</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Garante Informaçöes da CELL</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">swamp_objective_S01_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Secure CELL Intel and discover who tortured Psycho</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Garante Informaçöes da CELL e Descuba Quem Torturou Psycho</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">swamp_objective_S02_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Interface with Ceph Pinger</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Interage com o Pinger Ceph</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">swamp_objective_S02_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Use the Nanosuit to Interface with the Ceph Pinger</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Use o Nanosuit para Interagir com o Pinger Ceph</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">river_objective_01_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Approach the Ceph MindCarrier</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Aproxime-se do Conector Mental Ceph</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">river_objective_01_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Approach the Ceph Mindcarrier Device</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Aproxime-se do Conector Mental Ceph</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">river_objective_02_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Locate and Shut Down Archangel</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Localize e Desative o Arcanjo</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">river_objective_02_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Find the Archangel Command System and Prevent Armageddon </Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Encontre o Sistema de Controle do Arcanjo e Evite o Armageddon</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">river_objective_03_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Locate and Protect Claire</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Localize e Proteja Claire</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">river_objective_03_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Reach Claire and Provide Support</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Encontre Claire e Forneça Apoio</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">river_objective_04_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Infiltrate CELL Archangel Command Center </Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Infiltre-se na Central de Comando do Arcanjo</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">river_objective_04_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Find a way to get Into the Command Center </Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Encontre uma Forma de Entrar na Central de Comando</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">river_objective_05_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destroy Command Center Area Defense System</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destrua o Sistema de Defesa da Central de Comando</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">river_objective_05_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destroy Area Denial System and Allow Psycho to Land</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destrua o Sistema de Defesa da Central de Comando para que Psycho Possa Aterrissar</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">river_objective_06_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Head to the Control Room</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Vá para a Sala de Controle</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">river_objective_06_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Meet Psycho and Claire in the Control Room</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Encontre-se com Psycho e Claire na Sala de Controle</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">river_objective_S01_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Recon CELL Vehicle Pool</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Examine o Veículo da CELL</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row ss:Height="25.5">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">river_objective_S01_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Rebel Intel Suggests Possible Vehicle Upgrade Located here</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">A Inteligência Rebelde Sugere que Esta é a Localizaçäo de uma Possível Melhoria do Veículo</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">river_objective_S02_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destroy Command Center Area Defense System</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destrua o Sistema de Defesa da Central de Comando</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">river_objective_S02_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destroy the Tower Air Defense System and allow Psycho to Land</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destrua as Torres Aéreas para que Psycho Possa Aterrisar</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">islands_objective_01_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Shut Down Ceph Air Defenses</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Desative as Defesas Ceph</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">islands_objective_01_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Infiltrate and Shut Down Ceph Defense Battery Alpha</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Infiltre-se e Desative a Bateria Defensiva Ceph Alfa</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">islands_objective_02_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Shut Down Ceph Air Defenses</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Desative as Defesas Ceph</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">islands_objective_02_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Infiltrate and Shut Down Ceph Defense Battery Bravo</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Infiltre-se e Desative a Bateria Defensiva Ceph Bravo</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">islands_objective_03_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Shut Down Ceph Air Defenses</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Desative as Defesas Ceph</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">islands_objective_03_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Infiltrate and Shut Down Ceph Defense Battery Charlie</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Infiltre-se e Desative a Bateria Defensiva Ceph Charlie</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">islands_objective_04_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Regroup with Psycho</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Encontre-se com Psycho</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">islands_objective_04_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Rendez-Vous with Psycho at the VTOL</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Encontre-se com Psycho no VTOL</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">islands_objective_05_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destroy the Ceph Mastermind</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destrua o Conector Mental</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">islands_objective_05_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destroy the Ceph Mastermind</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destrua o Conector Mental</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">islands_objective_06_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Reach Columbus Circle</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Alcance o Columbus Circle</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">islands_objective_06_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Reach Columbus Circle</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Alcance o Columbus Circle</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">islands_objective_07_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Defend the VTOL</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Proteja o VTOL</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">islands_objective_07_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Defend the VTOL while Psycho fixes the Engines</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Defenda o VTOL Enquanto o Psycho Mexe nos Motores</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">islands_objective_08_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Enter VTOL</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Entre no VTOL</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">islands_objective_08_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Get back into the VTOL</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Volte para o VTOL</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">islands_objective_S01_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Clear the Mines Around the Rebel ICV</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Limpe as Minas Perto do Veículo de Combate</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">islands_objective_S01_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Clear the Mines Around the Rebel ICV</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Limpe as Minas Perto do Veículo de Combate</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">islands_objective_S02_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Locate Downed VTOL</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Localize o VTOL</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">islands_objective_S02_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Scout out the Downed VTOL</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pegue o VTOL</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">islands_objective_S03_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Provide Support to Rebel Mortar Unit</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Fornece Suporte para a Unidade de Argamassa Rebelde</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">islands_objective_S03_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Provide Combat Support to the Rebel Mortar Unit</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Fornece Suporte para a Unidade de Argamassa Rebelde</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">cave_objective_01_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Approach the Ceph Mindcarrier</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Aproxime-se do Conector Mental Ceph</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">cave_objective_01_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Approach the Ceph Mindcarrier Device</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Aproxime-se do Conector Mental Ceph</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">cave_objective_02_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Head Deeper into the Cave</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Entre na Caverna</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">cave_objective_02_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Move Deeper into the Cavern Through the Eastern Entrance</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Entre na Caverna pela Entrada Leste</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">cave_objective_03_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Approach the Ceph Mindcarrier</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Aproxime-se do Conector Mental Ceph</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">cave_objective_03_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Approach the Ceph Mindcarrier Device</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Aproxime-se do Conector Mental Ceph</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">cave_objective_04_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Approach the Ceph Mindcarrier</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Aproxime-se do Conector Mental Ceph</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">cave_objective_04_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Approach the Ceph Mindcarrier Device</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Aproxime-se do Conector Mental Ceph</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">cave_objective_05_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Close the Ceph Wormhole</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Feche o Buraco de Minhoca</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">cave_objective_05_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Find a way to the Ceph Wormhole and Destroy it</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Encontre e Destrua o Buraco de Minhoca</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">cave_objective_06_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destroy the Alpha Ceph</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destrua o Ceph Alfa</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">cave_objective_06_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destroy the Alpha Ceph</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destrua o Ceph Alfa</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">cave_objective_S01_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Investigate CELL Beacon</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Investigue a Baliza da CELL</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">cave_objective_S01_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Locate the Origin of the CELL Locator Beacon</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Encontre a fonte da Baliza da CELL</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">cave_objective_S02_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Sabotage the Cooling Structure </Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Sabote a Estrutura de Refrigeraçäo</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">cave_objective_S02_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Disable the Cooling Structure to Shut Down the Ceph Turrets</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Desative a Estrutura de Refrigeraçäo para Desativar as Torretas Ceph</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_01_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Select a Training Module</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Selecione um Módulo de Treinamento</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_01_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Select a Training Module</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Selecione um Módulo de Treinamento</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_02_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Look Up and Down</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Olhe para Cima e para Baixo</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_02_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Look Up and Down</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Olhe para Cima e para Baixo</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_03_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Move to Waypoint</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Avance para o Ponto de Passagem</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_03_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Move to Waypoint</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Avance para o Ponto de Passagem</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_04_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Move to Waypoint #2</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Avance para o Ponto de Passagem #2</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_04_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Move to Waypoint #2</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Avance para o Ponto de Passagem #2</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_05_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Move to Waypoint #3</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Avance para o Ponto de Passagem #3</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_05_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Move to Waypoint #3</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Avance para o Ponto de Passagem #3</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_06_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Exit Area</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Saia da Área</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_06_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Exit Area</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Saia da Área</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_07_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pick Up SCAR</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pegue o SCAR</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_07_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pick Up SCAR</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pegue o SCAR</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_08_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Shoot the Targets</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Atire nos Alvos</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_08_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Shoot the Targets</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Atire nos Alvos</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_09_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pick Up Hammer</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pegue o Hammer</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_09_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pick Up Hammer</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pegue o Hammer</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_10_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Melee the Target</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Ataque o Alvo</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_10_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Melee the Target</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Ataque o Alvo</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_11_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Refill Ammo</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Recarregue a Muniçäo</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_11_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Refill Ammo</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Recarregue a Muniçäo</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_12_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pick up Grenades</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pegue as Granadas</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_12_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pick up Grenades</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pegue as Granadas</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_13_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destroy the Target with a Grenade</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destrua o Alvo com a Granada</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_13_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destroy the Target with a Grenade</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destrua o Alvo com a Granada</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_14_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Exit Area</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Saia da Área</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_14_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Exit Area</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Saia da Área</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_15_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Move to Waypoint #1</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Avance para o Ponto de Passagem #1</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_15_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Move to Waypoint #1</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Avance para o Ponto de Passagem #1</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_16_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Activate Armor Mode to Withstand Enemy Fire</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Ative o Modo Blindagem para Resistir ao Fogo Enimigo</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_16_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Activate Armor Mode to Withstand Enemy Fire</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Ative o Modo Blindagem para Resistir ao Fogo Enimigo</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_17_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Use Cloak Mode to get past the Turrets Undetected</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Use o Modo Camuflagem para Näo ser Detectado</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_17_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Use Cloak Mode to get past the Turrets Undetected</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Use o Modo Camuflagem para Näo ser Detectado</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_18_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Exit Area</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Saia da Área</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_18_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Exit Area</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Saia da Área</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_19_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Identify and Tag the Targets</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Identifique e Designe os Alvos</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_19_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Identify and Tag the Targets</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Identifique e Designe os Alvos</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_20_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Move to Waypoint #1</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Avance para o Ponto de Passagem #1</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_20_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Move to Waypoint #1</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Avance para o Ponto de Passagem #1</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_21_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Hack the Turret</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Hackeie a Torreta</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_21_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Hack the Turret</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Hackeie a Torreta</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_22_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Melee Through the Wall</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Atravesse a Parade</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_22_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Melee Through the Wall</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Atravesse a Parade</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_23_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pick and Throw Object</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pegue e Lance um Objeto</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_23_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pick and Throw Object</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pegue e Lance um Objeto</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_24_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destroy the Target by Kicking the Object</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destrua um Alvo com um Objeto</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_24_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destroy the Target by Kicking the Object</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Destrua um Alvo com um Objeto</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_25_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Use Cloak Mode and Stealth Kill the Target Ahead</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Use o Modo Camuflagem para Abater os Inimigos</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_25_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Use Cloak Mode and Stealth Kill the Target Ahead</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Use o Modo Camuflagem para Abater os Inimigos</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_26_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Exit Area</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Saia da Área</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_26_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Exit Area</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Saia da Área</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_27_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Find Your way through the Arena Ahead Applying the Techniques You have Learned</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Atravesse a Arena aplicando as técnicas que você Aprendeu</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_27_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Find Your way through the Arena Ahead Applying the Techniques You have Learned</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Atravesse a Arena aplicando as técnicas que você Aprendeu</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_28_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Exit Area</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Saia da Área</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_28_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Exit Area</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Saia da Área</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_29_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pick up Weapon</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pegue a Arma</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_29_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pick up Weapon</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pegue a Arma</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_30_name</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Attach the Scope</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Conecte a Mira</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">tutorial_objective_30_description</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Attach the Scope to the Weapon</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Conecte a Mira na Arma</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:Orientation="Landscape"/>
+    <Header x:Margin="0.51181102362204722"
+     x:Data="&amp;LTime restriction sample script"/>
+    <Footer x:Margin="0.51181102362204722" x:Data="Page &amp;P"/>
+    <PageMargins x:Bottom="0.98425196850393704" x:Left="0" x:Right="0"
+     x:Top="0.98425196850393704"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <Scale>70</Scale>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <LeftColumnVisible>3</LeftColumnVisible>
+   <SplitHorizontal>2040</SplitHorizontal>
+   <TopRowBottomPane>0</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>4</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>298</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
