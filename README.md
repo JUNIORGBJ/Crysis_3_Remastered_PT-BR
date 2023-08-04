@@ -1,6 +1,7 @@
 ## :small_blue_diamond:Download
 
-https://drive.google.com/file/d/1jlmQR_Nv6MmxRzU9-RVeppFOHmSz4MKJ/view?usp=sharing
+## BAIXAR SWITCH :link: [v1.0](https://drive.google.com/file/d/1jlmQR_Nv6MmxRzU9-RVeppFOHmSz4MKJ/view?usp=sharing)
+
 <h1 align="center"><figure>
   <img src="Crisis3.png">
 </figure></h1>
